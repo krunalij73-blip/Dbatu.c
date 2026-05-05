@@ -1,5 +1,5 @@
-/*PRN-2503033111378UD005
- bhavesh Vijay.chitriv
+/*PRN-2503033111378UD009
+ krunali Devanand Joshi
   VLSI design */
  
 #include(stdio.h)
